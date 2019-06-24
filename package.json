@@ -1,6 +1,6 @@
 {
   "name": "ttt-jsclass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple javascript class template",
   "main": "index.js",
   "scripts": {
